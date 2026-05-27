@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hey, I'm Abrakant 👋
 
-<!--
-**abrakantrout/abrakantrout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m currently exploring AI, machine learning, and intelligent systems through projects, experimentation, and continuous learning.
 
-Here are some ideas to get you started:
+What interests me most about AI is not just building models, but understanding how systems can learn, adapt, and make meaningful decisions from data. I enjoy working on ideas that combine problem-solving, system thinking, and practical implementation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+At the moment, I’m focused on strengthening my foundations in:
+
+* Machine Learning
+* Data Science
+* Scikit-learn
+* Deep Learning & NLP
+* Intelligent Systems
+
+### Tools & Technologies
+
+`Python` `NumPy` `Pandas` `Scikit-learn` `Git`
+
+I’m continuously learning, building, and exploring how intelligent systems can create real-world impact.
+
+> Building systems that think beyond code.
