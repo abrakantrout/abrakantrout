@@ -5,7 +5,7 @@
 
 I build practical AI applications using machine learning, LLMs, RAG pipelines, and scalable backend systems.
 
-[LinkedIn](YOUR_LINKEDIN_URL) • [Email](mailto:YOUR_EMAIL) • [Resume](YOUR_RESUME_LINK) • [Portfolio](YOUR_PORTFOLIO_LINK)
+[LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/abrakantrout/)) • [Email](mailto:abrakant444@gmail.com) • [LeetCode](https://leetcode.com/u/Abrakant/)
 </div>
 
 ---
