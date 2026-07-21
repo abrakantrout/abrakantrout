@@ -58,19 +58,6 @@ Machine learning pipeline for predicting customer churn with feature engineering
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abrakantrout&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrakantrout&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abrakantrout&theme=tokyo-night&hide_border=true" width="100%" />
-</p>
-
----
-
 ## Currently Learning
 
 - Advanced Data Structures & Algorithms
