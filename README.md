@@ -72,7 +72,7 @@ Machine learning pipeline for predicting customer churn with feature engineering
 
 ## Open to Opportunities
 
-I am actively building AI/ML projects and preparing for Machine Learning Engineer, AI Engineer, and Software Engineering opportunities.
+I am actively building AI/ML projects and preparing for Machine Learning Engineer and AI Engineer opportunities.
 
 ---
 
